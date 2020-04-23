@@ -1,0 +1,5 @@
+C:\Users\romul\source\repos\AtomTools_Navisworks\AtomTools_Navisworks\obj\Debug\AtomTools_Navisworks.csprojAssemblyReference.cache
+D:\003_Programs\Autodesk\Navisworks Manage 2020\Plugins\AtomTools_Navisworks\AtomTools_Navisworks.dll
+D:\003_Programs\Autodesk\Navisworks Manage 2020\Plugins\AtomTools_Navisworks\AtomTools_Navisworks.pdb
+C:\Users\romul\source\repos\AtomTools_Navisworks\AtomTools_Navisworks\obj\Debug\AtomTools_Navisworks.dll
+C:\Users\romul\source\repos\AtomTools_Navisworks\AtomTools_Navisworks\obj\Debug\AtomTools_Navisworks.pdb
