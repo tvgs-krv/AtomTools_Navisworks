@@ -3,3 +3,10 @@ D:\003_Programs\Autodesk\Navisworks Manage 2020\Plugins\AtomTools_Navisworks\Ato
 D:\003_Programs\Autodesk\Navisworks Manage 2020\Plugins\AtomTools_Navisworks\AtomTools_Navisworks.pdb
 C:\Users\romul\source\repos\AtomTools_Navisworks\AtomTools_Navisworks\obj\Debug\AtomTools_Navisworks.dll
 C:\Users\romul\source\repos\AtomTools_Navisworks\AtomTools_Navisworks\obj\Debug\AtomTools_Navisworks.pdb
+C:\Users\romul\source\repos\AtomTools_Navisworks\AtomTools_Navisworks\obj\Debug\View\MainWindow.g.cs
+C:\Users\romul\source\repos\AtomTools_Navisworks\AtomTools_Navisworks\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\romul\source\repos\AtomTools_Navisworks\AtomTools_Navisworks\obj\Debug\AtomTools_Navisworks_MarkupCompile.cache
+C:\Users\romul\source\repos\AtomTools_Navisworks\AtomTools_Navisworks\obj\Debug\AtomTools_Navisworks_MarkupCompile.lref
+C:\Users\romul\source\repos\AtomTools_Navisworks\AtomTools_Navisworks\obj\Debug\View\MainWindow.baml
+C:\Users\romul\source\repos\AtomTools_Navisworks\AtomTools_Navisworks\obj\Debug\AtomTools_Navisworks.g.resources
+C:\Users\romul\source\repos\AtomTools_Navisworks\AtomTools_Navisworks\obj\Debug\AtomTools_Navisworks.csproj.CopyComplete
